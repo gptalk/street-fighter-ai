@@ -18,3 +18,8 @@ tensorboard==2.12.1
 
 # 修改 setup.py 文件：opencv-python>=3. (it should have a specific version or range, like >=3.0).
 # pip install -e .
+
+#sudo apt install nvidia-prime
+#prime-select query
+#glxinfo | grep "OpenGL"
+
