@@ -1,0 +1,8 @@
+Looking in indexes: https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+Requirement already satisfied: gymnasium in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (0.29.1)
+Requirement already satisfied: numpy>=1.21.0 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from gymnasium) (1.24.4)
+Requirement already satisfied: cloudpickle>=1.2.0 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from gymnasium) (3.1.1)
+Requirement already satisfied: typing-extensions>=4.3.0 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from gymnasium) (4.12.2)
+Requirement already satisfied: farama-notifications>=0.0.1 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from gymnasium) (0.0.4)
+Requirement already satisfied: importlib-metadata>=4.8.0 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from gymnasium) (8.5.0)
+Requirement already satisfied: zipp>=3.20 in /home/yellow/anaconda3/envs/ft/lib/python3.8/site-packages (from importlib-metadata>=4.8.0->gymnasium) (3.20.2)

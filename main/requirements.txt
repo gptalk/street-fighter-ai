@@ -1,0 +1,20 @@
+gym==0.21.0
+gym-retro==0.8.0
+stable-baselines3==1.7.0
+tensorboard==2.12.1
+
+#https://github.com/linyiLYi/street-fighter-ai/
+
+#conda create -n StreetFighterAI python==3.8 pip==23.0.1
+#pip install pip==23.0.1
+
+# 1‘从Git仓库下载：
+# tar -xvzf gym-0.21.0.tar.gz
+# cd gym-0.21.0
+
+# 2.git clone https://github.com/openai/gym.git
+#cd gym
+#git checkout v0.21.0
+
+# 修改 setup.py 文件：opencv-python>=3. (it should have a specific version or range, like >=3.0).
+# pip install -e .
